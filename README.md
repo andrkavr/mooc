@@ -1,2 +1,2 @@
 # mooc
-Solutions for the MOOC.fi Java exercises.
+My solutions to the MOOC.fi Java exercises.
