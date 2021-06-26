@@ -1,4 +1,4 @@
-package Part02_31_Averaging;
+package Part02_32_Averaging;
 
 public class Averaging {
 

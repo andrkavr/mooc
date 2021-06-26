@@ -1,4 +1,4 @@
-package Part02_29_Smallest;
+package Part02_30_Smallest;
 
 public class Smallest {
 

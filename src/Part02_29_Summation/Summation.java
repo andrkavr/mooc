@@ -1,4 +1,4 @@
-package Part02_28_Summation;
+package Part02_29_Summation;
 
 public class Summation {
 
