@@ -9,9 +9,9 @@ public class Smallest {
 
         if (number1 < number2) {
             return number1;
+        } else {
+            return number2;
         }
-
-        return number2;
     }
 
     public static void main(String[] args) {
