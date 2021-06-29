@@ -1,4 +1,4 @@
-package Part_03.Part03_35_ThirdElement;
+package Part_03.Part03_01_ThirdElement;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Part_03.Part03_36_SecondPlusThird;
+package Part_03.Part03_02_SecondPlusThird;
 
 import java.util.ArrayList;
 import java.util.Scanner;
