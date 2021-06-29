@@ -1,4 +1,4 @@
-package Part_03.Part_03_05_LastInList;
+package Part_03.Part03_05_LastInList;
 
 import java.util.ArrayList;
 import java.util.Scanner;
